@@ -1,0 +1,20 @@
+{
+  "name": "yolo_hector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedanth2174/YOLO_Hector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedanth2174/YOLO_Hector/issues"
+  },
+  "homepage": "https://github.com/vedanth2174/YOLO_Hector#readme"
+}
